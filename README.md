@@ -1,2 +1,2 @@
 # Microsoft Landing Page
-Preview: https://agitated-gates-c29a09.netlify.app/
+Preview: https://amazing-kowalevski-fcbd1f.netlify.app/
